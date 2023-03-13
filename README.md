@@ -63,30 +63,30 @@ Welcome to our 2303 Fullstack Academy University Program Repository! This reposi
   - [📖 MDN: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
   - [📖 MDN: CSS | First Steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
-| Topic                    | Lecture                | Slides                       | Demo                   | Workshop                | Solution                 |
-| ------------------------ | ---------------------- | ---------------------------- | ---------------------- | ----------------------- | ------------------------ |
-| Welcome                  | <!--[📺][intro-lec]--> | [🖼️][intro-slides]           | -                      | -                       | -                        |
-| Cohort Norms             | -                      | [🖼️][norms-slides]           | -                      | -                       | <!--  [👾][norms-sol]--> |
-| My First HTML Site       | -                      | -                            | -                      | <!--[🚀][first-html]--> | -                        |
-| CLI Boilerplate          | -                      | [🖼️][cli-boilerplate-slides] | -                      | [🚀][cli-boilerplate]   | -                        |
-| Intro to HTML and CSS    | <!--[📺][html-lec] --> | -                            | <!--[🧑‍💻][html-demo]--> | -                       | -                        |
-| Personal Site: Module 01 | -                      | -                            | -                      | [🚀][module-01]         | Included in Workshop     |
-| Morning Review           | -                      | -                            | -                      | -                       | -                        |
+| Topic                    | Lecture                | Slides                       | Demo                   | Workshop              | Solution             |
+| ------------------------ | ---------------------- | ---------------------------- | ---------------------- | --------------------- | -------------------- |
+| Welcome                  | [📺][intro-lec]        | [🖼️][intro-slides]           | -                      | -                     | -                    |
+| Cohort Norms             | -                      | [🖼️][norms-slides]           | -                      | -                     | [👾][norms-sol]      |
+| My First HTML Site       | -                      | -                            | -                      | [🚀][first-html]      | -                    |
+| CLI Boilerplate          | -                      | [🖼️][cli-boilerplate-slides] | -                      | [🚀][cli-boilerplate] | -                    |
+| Intro to HTML and CSS    | <!--[📺][html-lec] --> | -                            | <!--[🧑‍💻][html-demo]--> | -                     | -                    |
+| Personal Site: Module 01 | -                      | -                            | -                      | [🚀][module-01]       | Included in Workshop |
+| Morning Review           | -                      | -                            | -                      | -                     | -                    |
 
 [//]: # ' Paste in table above >> [📺][intro-lec] '
-[intro-lec]: ###
+[intro-lec]: https://youtu.be/OqI3gT2GFv0
 [//]: # ' Paste in table above >> [🖼️][intro-slides] '
-[intro-slides]: ./slides/Web%20Uni%20FT%20Session%201%20Presentation.pdf
+[intro-slides]: ./slides/2303-FTB-ET-WEB-FT_Web%20Session%201%20Presentation%20.pdf
 [//]: # ' Paste in table above >> [📺][cohort-norms] '
 [cohort-norms]: ###
 [//]: # ' Paste in table above >> [🖼️][norms-slides] '
-[norms-slides]: https://docs.google.com/presentation/d/1CvPKmsfthlZiPieVRfOavYQSHQU3cHJbz3H7Rgl-QFo/edit?usp=sharing
+[norms-slides]: https://docs.google.com/presentation/d/19Ei9YBaEZ0oNud5dxC2-OMOOPbLQgNrHslFHGoiICzg/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][norms-sol] '
 [norms-sol]: ./NORMS.md
 [//]: # ' Paste in table above >> [🚀][first-html] '
 [first-html]: https://docs.google.com/document/d/1JK77Nbi_TxsTTkyCsj2XAZ44qyEmWghrlWZaCjVFuAI/edit
 [//]: # ' Paste in table above >> [📺][html-lec] '
-[html-lec]: https://youtu.be/WW5uPv_JeUI
+[html-lec]: ###
 [html-slides]: ###
 [//]: # ' Paste in table above >> [🧑‍💻][html-demo] '
 [html-demo]: ###
