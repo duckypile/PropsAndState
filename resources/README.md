@@ -3,6 +3,8 @@
 - [📚 Comprehensive Book List](book-list.md)
 - [⌨️ Useful Terminal Commands](useful-commands.md)
 - [📖 Command-Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+- [🪟 VSCode Shortcuts](./keyboard-shortcuts-windows.pdf)
+- [🍎 VSCode Shortcuts](./keyboard-shortcuts-macos.pdf)
   <!-- - [📚 CSS Cheat Sheet](CSS_Cheat_Sheet_1662118665.pdf) -->
   <!-- - [:star: Javascript Cheat Sheet](JavaScript_Cheat_sheet_1647369061.pdf) -->
   <!-- - [👥 Pair Programming Workflow](Pair%20Programming%20Workflow.png) -->
