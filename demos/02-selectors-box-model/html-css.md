@@ -62,41 +62,41 @@ There are 3 types of CSS styling:
 - In-line styling - Where we're able to write a rule directly on a tag
 - Internal styling - We're able to write our CSS in the head of document inside of style tag
 - External styling - style outside of our file.
-  ![Writing Rules](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)
 
 Writing CSS rules
 
 1. You need to choose a selector
-1. tag type -> ie. p, section, main, article, nav ...
-1. class -> a group of similar items
-1. id -> usually a unique identifier
-1. You type curly braces
-1. Inside you add `property: value` pair
+   1. tag type -> ie. p, section, main, article, nav ...
+   1. class -> a group of similar items
+   1. id -> usually a unique identifier
+2. You type curly braces
+3. Inside you add `property: value` pair
+   ![Writing Rules](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)
 
 #### Some different CSS rules:
 
-- font-family = changing the font or the type for a given bit of text
+- `font-family` = changing the font or the type for a given bit of text
   - Make sure you have a fallback font-family category (i.e. serif or sans-serif) as the last value in your font-family rule
   - Any font with 2 or more words must be wrapped in quotes
-- font-size = changing the size of the font
-- padding = distance between your HTML content and the border of its HTML container element
-- margin = distance between your HTML container's BORDER and the border of the browser window
-- text-decoration = allows you to stylize text
-- display = Changing the display orientation of a given HTML element
-  - Table
-  - inline
-  - Block
-  - inline-block
-- text-align = Where do you want your text to be oriented to
-- width
-- height
-- border = What kind of border do you want to give to your HTML elements
-- border-radius = the amount of curve you give to the border
-- position = What position do you want your element to be relative to everything else
-- color = generally refers to text
-- background-color = color of the background
-- background-image = `url("someurlhere.com")
-- opacity = change the transparency of an image or background or other stuff.
+- `font-size` = changing the size of the font
+- `padding` = distance between your HTML content and the border of its HTML container element
+- `margin` = distance between your HTML container's BORDER and the border of the browser window
+- `text-decoration` = allows you to stylize text
+- `display` = Changing the display orientation of a given HTML element
+  - `Table`
+  - `inline`
+  - `Block`
+  - `inline-block`
+- `text-align` = Where do you want your text to be oriented to
+- `width`
+- `height`
+- `border` = What kind of border do you want to give to your HTML elements
+- `border`-radius = the amount of curve you give to the border
+- `position` = What position do you want your element to be relative to everything else
+- `color` = generally refers to text
+- `background-color` = color of the background
+- `background-image` = `url("someurlhere.com")` (cannot have opacity!)
+- `opacity` = change the transparency of an image or background or other stuff.
 
 #### Selectors:
 
@@ -108,18 +108,18 @@ Specificity:
 
 - [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
 
-- Tagname least specific
-- Class next
-- ID most specific
-- Inline style most specific (in these examples)
+- Tagname: `p{}` least specific
+- Class: `.className{}` next specific
+- ID: `#idName{}` most specific(for our purposes)
+- Inline: `<p style='color: red'>` style very most specific, but not encouraged (in these examples)
 
 Box Model:
 
-- Everything is a box. Use \*{border: 2px solid red} at the top of your style sheet to see a visual representation of this.
+- Everything is a box. Use `{border: 2px solid red}` at the top of your style sheet to see a visual representation of this.
 
 - Also visible in the browser dev-tools.
 
-- Think of the box model like a item hanging in a gallery:
+- Think of the box model like an item hanging in a gallery:
 
   - content: the painting/photograph
   - padding: matte surrounding the art
@@ -128,7 +128,7 @@ Box Model:
 
 - Use box-sizing to determine how the width and height properties interact with these properties.
 
-- Suggestion: use box-sizing: border-box everywhere.
+- Suggestion: use `box-sizing: border-box;` everywhere.
 
 - Under border-box, the width of the content area is: width - borderWidth - paddingWidth
 
