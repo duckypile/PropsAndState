@@ -11,12 +11,12 @@ Tags:
   - `<h1></h1>` = the largest and the main topic of the page
   - `<h6></h6>` = the smallest and the most sub topic
 
-<h1>the largest</h1>
-<h2>next largest</h2>
-<h3>sort of large</h3>
-<h4>a little smaller</h4>
-<h5>not the smallest</h5>
-<h6>the smallest</h6>
+> <h1>the largest</h1>
+> <h2>next largest</h2>
+> <h3>sort of large</h3>
+> <h4>a little smaller</h4>
+> <h5>not the smallest</h5>
+> <h6>the smallest</h6>
 
 - `<body>` = the main context of the document
 - `<header>`/`<footer>` = consistent across different pages and navigational in nature
