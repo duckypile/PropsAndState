@@ -181,9 +181,17 @@ Float
 
 - More on [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
 - Removed from normal flow.
-- float: left
+
+```css
+float: left;
+```
+
 - Element floats to the left of it's container.
-- float: right
+
+```css
+float: right;
+```
+
 - Element floats to the right of it's container.
 
 Position
@@ -193,8 +201,23 @@ Position
 - static: Static position corresponds to the normal flow.
   Other positions place the element according to the left, top, right, and bottom css properties.
 
+  ```css
+  position: static;
+  ```
+
 - relative: Relative elements are offset in their screen position relative to where they would be rendered in the normal flow. Relative positioning does NOT effect the position of other elements in the normal flow.
+
+  ```css
+  position: relative;
+  ```
 
 - absolute: Absolute elements are taken out of normal flow. Their position is relative to their layout parent. The layout parent of an absolute element is the nearest non-static element. This can be an relative or absolute element. If all the parents of an absolute element are position: static, it is positioned relative to the document body.
 
+  ```css
+  position: absolute;
+  ```
+
 - fixed: Fixed elements are positioned relative to the browser screen.
+  ```css
+  position: fixed;
+  ```
