@@ -127,30 +127,31 @@ Welcome to our 2303 Fullstack Academy University Program Repository! This reposi
   - [📖 Pre-reading Module 02 ](https://learn.fullstackacademy.com/workshop/5e2f027bf06d2e0004f1ff7d/content/5e2f027bf06d2e0004f1ff84/text)
   - [📖 Pre-reading Module 03 ](https://learn.fullstackacademy.com/workshop/5e2f06f4f06d2e0004f200f1/content/5e2f06f4f06d2e0004f200f8/text)
 
-| Topic                         | Lecture                      | Slides               | Demo                         | Workshop                                     | Solution                   |
-| ----------------------------- | ---------------------------- | -------------------- | ---------------------------- | -------------------------------------------- | -------------------------- |
-| Pair Programming              | -                            | [🖼️][pairing-slides] | -                            | -                                            | -                          |
-| CSS Selectors & The Box Model | <!--[📺][selectors-lec]-->   | -                    | <!--[🧑‍💻][selectors-demo] --> | [🚀 Selector Activity][selectors-workshop]   | <!--[👾][selectors-sol]--> |
-| CSS Positioning               | <!--[📺][positioning-lec]--> | -                    | <!--[🧑‍💻][selectors-demo] --> | [🚀 Position Activity][positioning-workshop] | -                          |
-| Personal Site: Module 02      | -                            | -                    | -                            | [🚀 Module 02][module-02]                    | -                          |
-| Personal Site: Module 03      | -                            | -                    | -                            | [🚀 Module 03][module-03]                    | -                          |
-| Morning Review                | -                            | -                    | -                            | -                                            | -                          |
+| Topic                         | Lecture                                                       | Slides                 | Demo                 | Workshop                                     | Solution                   |
+| ----------------------------- | ------------------------------------------------------------- | ---------------------- | -------------------- | -------------------------------------------- | -------------------------- |
+| Pair Programming              | [📺][pairing-lec]                                             | [🖼️][pairing-slides]   | -                    | -                                            | -                          |
+| CSS Selectors & The Box Model | [📺][selectors-lec]                                           | [🖼️][selectors-slides] | [🧑‍💻][selectors-demo] | [🚀 Selector Activity][selectors-workshop]   | <!--[👾][selectors-sol]--> |
+| CSS Positioning               | [📺 Positioning][positioning-lec] [📺 Fonts][google-font-lec] | -                      | [🧑‍💻][selectors-demo] | [🚀 Position Activity][positioning-workshop] | -                          |
+| Personal Site: Module 02      | -                                                             | -                      | -                    | [🚀 Module 02][module-02]                    | -                          |
+| Personal Site: Module 03      | -                                                             | -                      | -                    | [🚀 Module 03][module-03]                    | -                          |
+| Morning Review                | -                                                             | -                      | -                    | -                                            | -                          |
 
 [//]: # ' Paste in table above >> [📺][pairing-lec] '
-[pairing-lec]: ###
+[pairing-lec]: https://youtu.be/VGpIKN6ykKw
 [//]: # ' Paste in table above >> [🖼️][pairing-slides] '
 [pairing-slides]: ./slides/pair-programming.pdf
 [//]: # ' Paste in table above >> [📺][selectors-lec] '
-[selectors-lec]: ###
+[selectors-lec]: https://youtu.be/gYRNdlMixsI
 [//]: # ' Paste in table above >> [🖼️][selectors-slides] '
-[selectors-slides]: ###
+[selectors-slides]: ./demos/02-selectors-box-model/html-css.md
 [//]: # ' Paste in table above >> [🧑‍💻][selectors-demo] '
-[selectors-demo]: ###
+[selectors-demo]: ./demos/02-selectors-box-model/02-html-css/
 [//]: # ' Paste in table above >> [🚀][selectors-workshop] '
 [selectors-workshop]: http://css-dinner.fullstackacademy.com/
 [selectors-sol]: ###
 [//]: # ' Paste in table above >> [📺][positioning-lec] '
-[positioning-lec]: ###
+[positioning-lec]: https://youtu.be/asvhzD4xojc
+[google-font-lec]: https://youtu.be/cGox-T7ksFQ
 [//]: # ' Paste in table above >> [🖼️][positioning-slides] '
 [positioning-slides]: ###
 [//]: # ' Paste in table above >> [🧑‍💻][positioning-demo] '
@@ -207,14 +208,6 @@ Welcome to our 2303 Fullstack Academy University Program Repository! This reposi
 [navbar-flexbox-demo]: ###
 [//]: # ' Paste in table above >> [🚀][qwirty-01] '
 [qwirty-01]: https://learn.fullstackacademy.com/workshop/5e30a3be637793000496128e/content/5e30a3be63779300049612a3/text
-[//]: # ' Paste in table above >> [📺][media-querry-lec] '
-[media-querry-lec]: ###
-[//]: # ' Paste in table above >> [🖼️][media-querry-slides] '
-[media-querry-slides]: ###
-[//]: # ' Paste in table above >> [🧑‍💻][media-querry-demo] '
-[media-querry-demo]: ###
-[//]: # ' Paste in table above >> [🚀][qwirty-02] '
-[qwirty-02]: https://learn.fullstackacademy.com/workshop/5e30aeeb326e9e00048348e5/content/5e30aeeb326e9e00048348ed/text
 [//]: # ' Paste in table above >> [📺][am-rev-1-3] '
 [am-rev-1-3]: ###
 [//]: # ' Paste in table above >> [🎟][am-rev-1-3-ticket] '
@@ -254,6 +247,14 @@ Welcome to our 2303 Fullstack Academy University Program Repository! This reposi
 [js2-demo]: ###
 [//]: # ' Paste in table above >> [🚀][js2-workshop] '
 [js2-workshop]: https://learn.fullstackacademy.com/workshop/5c6eca0f2739af00046170a9/content/5c75bc1469f3c700041e82fd/text
+[//]: # ' Paste in table above >> [📺][media-querry-lec] '
+[media-querry-lec]: ###
+[//]: # ' Paste in table above >> [🖼️][media-querry-slides] '
+[media-querry-slides]: ###
+[//]: # ' Paste in table above >> [🧑‍💻][media-querry-demo] '
+[media-querry-demo]: ###
+[//]: # ' Paste in table above >> [🚀][qwirty-02] '
+[qwirty-02]: https://learn.fullstackacademy.com/workshop/5e30aeeb326e9e00048348e5/content/5e30aeeb326e9e00048348ed/text
 [//]: # ' Paste in table above >> [📺][am-rev-1-4] '
 [am-rev-1-4]: ###
 [//]: # ' Paste in table above >> [🎟][am-rev-1-4-ticket] '
