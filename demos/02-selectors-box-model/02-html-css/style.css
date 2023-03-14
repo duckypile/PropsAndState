@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  /* border: 2px red solid; */
 }
 
 body {
@@ -21,17 +22,54 @@ ul {
 
 #logo {
   width: 10em;
-  border: 20px red dashed;
+  border: 5px red solid;
+  border-radius: 50%;
   padding: 10px;
   /* margin: 50px; */
+  /* position: sticky;
+  top: 200px; */
+  /* left: 300px; */
+}
+
+header {
+  position: sticky;
+  top: 50px;
+  /* z-index: -1; */
+}
+
+/* p {
+  background-color: rgba(16, 17, 16);
+} */
+
+#owner-pic {
+  height: 200px;
+  width: auto;
+  float: left;
+}
+
+.float-right {
+  float: right;
 }
 
 nav {
   display: inline-block;
 }
-/* ul li {
+
+ul li a {
   display: inline-block;
-} */
-.nav-link {
+  color: white;
+}
+
+.nav-link a {
   display: inline-block;
+  color: palevioletred;
+}
+
+article {
+  display: inline-block;
+  width: 24%;
+  border: 1px white dashed;
+  vertical-align: middle;
+  height: 200px;
+  margin-top: 5px;
 }

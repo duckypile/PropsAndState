@@ -34,7 +34,7 @@ Generic elements:
 
 Other things to know:
 
-- href - hypertext reference = points to new location inside opening <a> tag.
+- href - hypertext reference = points to new location inside opening a tag.
 
 #### text-based HTML tags
 
@@ -68,3 +68,5 @@ Writing CSS rules
 - padding = distance between the content and the border of the element
 - border = outside of the padding
 - margin = space outside of the border and between other elements
+
+#### CSS Specificity

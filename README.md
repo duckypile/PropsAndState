@@ -127,14 +127,14 @@ Welcome to our 2303 Fullstack Academy University Program Repository! This reposi
   - [📖 Pre-reading Module 02 ](https://learn.fullstackacademy.com/workshop/5e2f027bf06d2e0004f1ff7d/content/5e2f027bf06d2e0004f1ff84/text)
   - [📖 Pre-reading Module 03 ](https://learn.fullstackacademy.com/workshop/5e2f06f4f06d2e0004f200f1/content/5e2f06f4f06d2e0004f200f8/text)
 
-| Topic                         | Lecture                      | Slides               | Demo                         | Workshop                                            | Solution                   |
-| ----------------------------- | ---------------------------- | -------------------- | ---------------------------- | --------------------------------------------------- | -------------------------- |
-| Pair Programming              | -                            | [🖼️][pairing-slides] | -                            | -                                                   | -                          |
-| CSS Selectors & The Box Model | <!--[📺][selectors-lec]-->   | -                    | <!--[🧑‍💻][selectors-demo] --> | [🚀 Selector Activity][selectors-workshop]          | <!--[👾][selectors-sol]--> |
-| CSS Positioning               | <!--[📺][positioning-lec]--> | -                    | <!--[🧑‍💻][selectors-demo] --> | <!--[🚀 Position Activity][positioning-workshop]--> | -                          |
-| Personal Site: Module 02      | -                            | -                    | -                            | [🚀 Module 02][module-02]                           | -                          |
-| Personal Site: Module 03      | -                            | -                    | -                            | [🚀 Module 03][module-03]                           | -                          |
-| Morning Review                | -                            | -                    | -                            | -                                                   | -                          |
+| Topic                         | Lecture                      | Slides               | Demo                         | Workshop                                     | Solution                   |
+| ----------------------------- | ---------------------------- | -------------------- | ---------------------------- | -------------------------------------------- | -------------------------- |
+| Pair Programming              | -                            | [🖼️][pairing-slides] | -                            | -                                            | -                          |
+| CSS Selectors & The Box Model | <!--[📺][selectors-lec]-->   | -                    | <!--[🧑‍💻][selectors-demo] --> | [🚀 Selector Activity][selectors-workshop]   | <!--[👾][selectors-sol]--> |
+| CSS Positioning               | <!--[📺][positioning-lec]--> | -                    | <!--[🧑‍💻][selectors-demo] --> | [🚀 Position Activity][positioning-workshop] | -                          |
+| Personal Site: Module 02      | -                            | -                    | -                            | [🚀 Module 02][module-02]                    | -                          |
+| Personal Site: Module 03      | -                            | -                    | -                            | [🚀 Module 03][module-03]                    | -                          |
+| Morning Review                | -                            | -                    | -                            | -                                            | -                          |
 
 [//]: # ' Paste in table above >> [📺][pairing-lec] '
 [pairing-lec]: ###
