@@ -130,7 +130,7 @@ Welcome to our 2303 Fullstack Academy University Program Repository! This reposi
 | Topic                         | Lecture                      | Slides               | Demo                         | Workshop                                            | Solution                   |
 | ----------------------------- | ---------------------------- | -------------------- | ---------------------------- | --------------------------------------------------- | -------------------------- |
 | Pair Programming              | -                            | [🖼️][pairing-slides] | -                            | -                                                   | -                          |
-| CSS Selectors & The Box Model | <!--[📺][selectors-lec]-->   | -                    | <!--[🧑‍💻][selectors-demo] --> | <!--[🚀 Selector Activity][selectors-workshop]-->   | <!--[👾][selectors-sol]--> |
+| CSS Selectors & The Box Model | <!--[📺][selectors-lec]-->   | -                    | <!--[🧑‍💻][selectors-demo] --> | [🚀 Selector Activity][selectors-workshop]          | <!--[👾][selectors-sol]--> |
 | CSS Positioning               | <!--[📺][positioning-lec]--> | -                    | <!--[🧑‍💻][selectors-demo] --> | <!--[🚀 Position Activity][positioning-workshop]--> | -                          |
 | Personal Site: Module 02      | -                            | -                    | -                            | [🚀 Module 02][module-02]                           | -                          |
 | Personal Site: Module 03      | -                            | -                    | -                            | [🚀 Module 03][module-03]                           | -                          |
